@@ -1,4 +1,4 @@
-## 📊 GATE Analysis Project
+## GATE Analysis Project
 This project analyzes GATE applicant data vs. cutoffs
 
 ### Features
